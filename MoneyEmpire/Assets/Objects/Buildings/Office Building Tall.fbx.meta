@@ -13,12 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bare Metal
-    second: {fileID: 2100000, guid: b56d7e91ccb56a940872d36034c44bb9, type: 2}
+    second: {fileID: 2100000, guid: 75b5fb3952dd730488120e2808208a0b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Building 1
-    second: {fileID: 2100000, guid: 287e42e6ba128ea469064727367b2692, type: 2}
+    second: {fileID: 2100000, guid: e63bf03d7cf580647a57dd26d04bc3aa, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -28,27 +28,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dark Metal
-    second: {fileID: 2100000, guid: 5995d325b25d3aa46a304a16681a27c8, type: 2}
+    second: {fileID: 2100000, guid: 4cbb9475789c5d740843f21d14ee4ce0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Light Metal
-    second: {fileID: 2100000, guid: 4752455e979eaf042837276d33f1769f, type: 2}
+    second: {fileID: 2100000, guid: 0f17eeeabbc7a1847b057302fb085f21, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Main Concrete
-    second: {fileID: 2100000, guid: 95b2ba31cd9a94d41801aa0c03d7c346, type: 2}
+    second: {fileID: 2100000, guid: 282c8d1f1e521e543a04046c314466fc, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Panel Dark.001
-    second: {fileID: 2100000, guid: 77db4edfb9437914298063e57044757b, type: 2}
+    second: {fileID: 2100000, guid: 86269720c7b0c984db07de036f95d615, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Panel Light
-    second: {fileID: 2100000, guid: 336d6e966572b7348a1ec560cc53c982, type: 2}
+    second: {fileID: 2100000, guid: 137d26fd3835cbf448e81e80c1424ead, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

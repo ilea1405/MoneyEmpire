@@ -8,42 +8,42 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: AC
-    second: {fileID: 2100000, guid: 1f8a4934c817a7c4aa56ab1c11b20feb, type: 2}
+    second: {fileID: 2100000, guid: 6cc7ff81d5d062f4fba18f0073b88ce1, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Bare Metal
-    second: {fileID: 2100000, guid: 8e2791b07b48d6844b51534bc2c0d0b4, type: 2}
+    second: {fileID: 2100000, guid: 718c0e66c8c32fc4c85b7ecd98f9b018, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Building 1
-    second: {fileID: 2100000, guid: 23b1fb172b5cf0c4db9c713e95cc4543, type: 2}
+    second: {fileID: 2100000, guid: a76efd8042bf36349acfdfa36db1cd58, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Building 3
-    second: {fileID: 2100000, guid: 8bb974a433d23cf4c81165d09d581a5e, type: 2}
+    second: {fileID: 2100000, guid: 985e4f7bbb878a0459ac34dc90c5def7, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Dark Metal
-    second: {fileID: 2100000, guid: 036b29f61d5a75a4fb7877462f6ad788, type: 2}
+    second: {fileID: 2100000, guid: 56cdf19196224934d9da15c3fdb41c61, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Light Metal
-    second: {fileID: 2100000, guid: 955674479e02f1a4da9ee8933fc5a256, type: 2}
+    second: {fileID: 2100000, guid: 16b32ce933d2b3f49b23888a5e429f8a, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vent
-    second: {fileID: 2100000, guid: b4f8b8964a79baf4085129956979c015, type: 2}
+    second: {fileID: 2100000, guid: ab6f866b526bb0242a1d8c8ad693985d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Window
-    second: {fileID: 2100000, guid: 258b1a272b792054dbf0d0e1a6d90c55, type: 2}
+    second: {fileID: 2100000, guid: 51cd026faa0bd8443b1f388005991550, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -76,7 +76,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1

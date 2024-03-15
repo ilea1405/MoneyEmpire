@@ -85,7 +85,7 @@ Material:
     - _EmissionIntensity: 1
     - _EnableDetailMask: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.95
+    - _Glossiness: 1
     - _GlossyReflections: 1
     - _IntensityMask: 1
     - _InvertABaseColor: 0

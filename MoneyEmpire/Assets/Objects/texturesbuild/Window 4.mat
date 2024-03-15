@@ -29,6 +29,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _CutoutMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _DetailAlbedoMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -85,10 +89,12 @@ Material:
     - _EmissionIntensity: 1
     - _EnableDetailMask: 0
     - _GlossMapScale: 1
-    - _Glossiness: 0.95
+    - _Glossiness: 1
     - _GlossyReflections: 1
+    - _IntensityCutoutMap: 0.5
     - _IntensityMask: 1
     - _InvertABaseColor: 0
+    - _InvertCutout: 0
     - _InvertMask: 0
     - _Metallic: 0
     - _Mode: 0
@@ -103,6 +109,7 @@ Material:
     - _SpreadDetailMap: 0
     - _SrcBlend: 1
     - _UVSec: 0
+    - _UseBaseColorAlpha: 0
     - _VisualizeMask: 0
     - _ZTest: 4
     - _ZWrite: 1

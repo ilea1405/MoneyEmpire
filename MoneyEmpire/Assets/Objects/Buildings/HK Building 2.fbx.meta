@@ -8,22 +8,22 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: AC
-    second: {fileID: 2100000, guid: 2184a4370c55f0e41b6d52d1f8224ff1, type: 2}
+    second: {fileID: 2100000, guid: 9a72a83b96c45e0408848054e70b9342, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Building 1
-    second: {fileID: 2100000, guid: c0d423406e379f54b81fa6e38654f203, type: 2}
+    second: {fileID: 2100000, guid: 7a329896f7b4d86479791560f1820318, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Vent
-    second: {fileID: 2100000, guid: 7c02bf30453db9b4581f11658a997fe6, type: 2}
+    second: {fileID: 2100000, guid: 7e3259ebbd7a2d44e9a95f7a980f5c58, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Window
-    second: {fileID: 2100000, guid: 9aceffeb6200a5645875eb1f8dac3a5b, type: 2}
+    second: {fileID: 2100000, guid: d3b59032d607e38458c6850d49c12c97, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -56,7 +56,7 @@ ModelImporter:
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 2
     addColliders: 0
     useSRGBMaterialColor: 1
     sortHierarchyByName: 1
